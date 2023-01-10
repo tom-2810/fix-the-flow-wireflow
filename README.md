@@ -6,8 +6,8 @@ Micro-interactie die mobiele navigatie mogelijk maakt, door middel van een hambu
 
 ## Gebruiker
 
-Aangezien het hamburger-menu niet word getoond op de desktop versie, word de gebruiker specifieker dan de doelgroep.
-Deze micro-interactie is namelijk gericht op de mobiel gebruiker.
+Aangezien het hamburger-menu niet word getoond op de desktop versie, word de gebruiker specifieker dan de overkoepelende doelgroep.
+Deze micro-interactie is namelijk gericht op de mobiele gebruiker.
 
 ## User Story
 
