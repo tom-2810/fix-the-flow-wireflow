@@ -2,16 +2,16 @@
 
 # Titel
 
-Micro-interactie die mobiele navigatie mogelijk maakt, door middel van een hamburgermenu.
+Micro-interactie die mobiele navigatie mogelijk maakt, door middel van een hamburger-menu.
 
 ## Gebruiker
 
-Aangezien het hamburgermenu niet word getoond op de desktop versie, word de gebruiker specifieker dan de doelgroep.
+Aangezien het hamburger-menu niet word getoond op de desktop versie, word de gebruiker specifieker dan de doelgroep.
 Deze micro-interactie is namelijk gericht op de mobiel gebruiker.
 
 ## User Story
 
-Als mobiele gebruiker wil ik door middel van een hamburger menu alsnog toegang hebben tot een volledige navigatie.
+Als mobiele gebruiker wil ik door middel van een hamburger-menu alsnog toegang hebben tot een volledige navigatie.
 
 ## Wireflow
 
