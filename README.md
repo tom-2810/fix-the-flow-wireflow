@@ -11,7 +11,7 @@ Deze micro-interactie is namelijk gericht op de mobiele gebruiker.
 
 ## User Story
 
-Als mobiele gebruiker wil ik door middel van een hamburger-menu alsnog toegang hebben tot een volledige navigatie.
+Als mobiele gebruiker wil ik door middel van een hamburger-menu alsnog toegang hebben tot de volledige navigatie van de website.
 
 ## Wireflow
 
