@@ -11,7 +11,7 @@ Deze micro-interactie is namelijk gericht op de mobiele gebruiker.
 
 ## User Story
 
-Als mobiele gebruiker wil ik door middel van een hamburger-menu alsnog toegang hebben tot de volledige navigatie van de website.
+Als mobiele gebruiker wil ik door middel van een hamburger-menu, alsnog toegang hebben tot de volledige navigatie van de website.
 
 ## Wireflow
 
@@ -19,7 +19,7 @@ Als mobiele gebruiker wil ik door middel van een hamburger-menu alsnog toegang h
 
 ## Testen
 
-Naar aanleiding van mijn wireflow tonen, heb ik wat feedback ontvangen. Het was namelijk nog niet duidelijk dat het menu van boven naar beneden opent.
+Naar aanleiding van mijn wireflow te tonen, heb ik wat feedback ontvangen. Het was namelijk nog niet duidelijk dat het menu van boven naar beneden opent.
 Dit heb ik opgelost door bij het eerste scherm een blauwe lijn bovenaan te tekenen en bij het tweede scherm onderaan. Dit suggereert dat het menu uitgeklapt is. Ook kreeg ik terug dat er nog wat meer toelichting bij moest, wat ik heb toegevoegd achter een i-icoontje.
  
 
